@@ -58,7 +58,7 @@ function sayHello3(name, chicken){
 const greet3 = sayHello3("juoh", 24);
 console.log(greet3) 
 
-*/
+
 
 //계산기 만들어보기 - 계산기 안에 여러개의 함수를 넣고 싶은 경우 객체 안에 여러개의 함수를 구현한다.
 const calculator = {
@@ -80,3 +80,5 @@ const calculator = {
 }
 
 console.log(calculator.plus(5, 5));
+
+*/
